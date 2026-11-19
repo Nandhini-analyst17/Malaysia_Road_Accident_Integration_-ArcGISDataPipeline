@@ -366,13 +366,16 @@ Data Cleaning and Transformation.
 SQL-Based Attribute Filtering.
 GIS Data Visualization.
 
-##11. Future Improvements
+---
+## 11. Future Improvements
 Potential enhancements include:
 Integrating verified real-world Malaysian road accident datasets.
 Incorporating additional administrative boundary attributes.
 Performing spatial joins between accident points and district polygons.
 Identifying accident concentration areas using spatial analysis.
 
-## 12. 12. Disclaimer
+---
+
+## 12. Disclaimer
 This project is developed for educational and portfolio demonstration purposes.
 The road accident dataset contains synthetic records and should not be interpreted as official road accident statistics or used for real-world traffic safety decisions.
